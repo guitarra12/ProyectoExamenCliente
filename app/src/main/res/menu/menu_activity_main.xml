@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.iteso.pdm18_scrollabletabs.ActivityMain">
+    <item
+        android:id="@+id/menu_item_technology"
+        android:title="@string/title_section_technology"
+        app:showAsAction="always|withText"/>
+    <item
+        android:id="@+id/menu_item_home"
+        android:title="@string/title_section_home"
+        app:showAsAction="always|withText"/>
+    <item
+        android:id="@+id/menu_item_electronics"
+        android:title="@string/title_section_electronics"
+        app:showAsAction="always|withText"/>
+
+    <item
+        android:id="@+id/menu_item_refresh"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="Refresh"
+        app:showAsAction="ifRoom" />
+</menu>

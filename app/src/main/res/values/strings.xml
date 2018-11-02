@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProyectoExamenCliente</string>
+    <string name="title_section_technology">Technology</string>
+    <string name="title_section_home">Home</string>
+    <string name="title_section_electronics">Electronics</string>
+</resources>
